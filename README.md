@@ -3,9 +3,6 @@
 💻 **Multiplatform Software Development Student**
 
 🌱 Learning backend
-### Contact:
-
-![Website](https://img.shields.io/website?url=https%3A%2F%2Ftwitter.com%2FDeigowo)
 
 ### Activity:
 
