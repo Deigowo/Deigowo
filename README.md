@@ -11,7 +11,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Deigowo/ConceptosJS)
 
 ### Commits recientes
-<!--RECENT_ACTIVITY:start -->
+<!--RECENT_ACTIVITY:start-->
 
 <!--RECENT_ACTIVITY:last_update-->
 
