@@ -13,7 +13,7 @@
 ### Commits recientes
 <!--RECENT_ACTIVITY:start-->
 
-<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:end-->
 
 <!--
 **Deigowo/Deigowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
