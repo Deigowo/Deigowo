@@ -1,0 +1,8 @@
+recent-activity:
+  display_limit: 5         # Máximo de actividades a mostrar
+  ignore_repositories: []  # Repositorios a ignorar
+  include_types:           # Tipos de eventos a incluir
+    - created
+    - starred
+    - forked
+    - pushed
