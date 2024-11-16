@@ -11,9 +11,9 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Deigowo/ConceptosJS)
 
 ### Commits recientes
-<!-- START_SECTION:activity -->
+<!--RECENT_ACTIVITY:start -->
 
-<!-- END_SECTION:activity -->
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--
 **Deigowo/Deigowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
