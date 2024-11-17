@@ -12,11 +12,11 @@
 
 ### Commits recientes
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Deigowo/aNewRepo](https://github.com/Deigowo/aNewRepo)<br>
-2. ✔️ Closed issue [#1](https://github.com/Deigowo/aNewRepo/issues/1) in [Deigowo/aNewRepo](https://github.com/Deigowo/aNewRepo)<br>
-3. ❗️ Opened issue [#1](https://github.com/Deigowo/aNewRepo/issues/1) in [Deigowo/aNewRepo](https://github.com/Deigowo/aNewRepo)<br>
-4. 📔 Created new repository [Deigowo/aNewRepo](https://github.com/Deigowo/aNewRepo)<br>
-5. ⬆️ Pushed 1 commit(s) to [Deigowo/Deigowo](https://github.com/Deigowo/Deigowo)<br>
+1. ✌️ Released [v0.1.0](https://github.com/Deigowo/firstRelease/releases/tag/v0.1.0) in [Deigowo/firstRelease](https://github.com/Deigowo/firstRelease)<br>
+2. ⬆️ Pushed 1 commit(s) to [Deigowo/firstRelease](https://github.com/Deigowo/firstRelease)<br>
+3. 📔 Created new repository [Deigowo/firstRelease](https://github.com/Deigowo/firstRelease)<br>
+4. 🎉 Merged PR [#2](https://github.com/Deigowo/aNewRepo/pull/2) in [Deigowo/aNewRepo](https://github.com/Deigowo/aNewRepo)<br>
+5. ⬆️ Pushed 3 commit(s) to [Deigowo/aNewRepo](https://github.com/Deigowo/aNewRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
