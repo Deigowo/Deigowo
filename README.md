@@ -12,10 +12,10 @@
 
 ### Commits recientes
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Deigowo/Deigowo](https://github.com/Deigowo/Deigowo)<br>
-2. ⬆️ Pushed 1 commit(s) to [Deigowo/Deigowo](https://github.com/Deigowo/Deigowo)<br>
-3. ⬆️ Pushed 1 commit(s) to [Deigowo/Deigowo](https://github.com/Deigowo/Deigowo)<br>
-4. ⬆️ Pushed 1 commit(s) to [Deigowo/Deigowo](https://github.com/Deigowo/Deigowo)<br>
+1. ⬆️ Pushed 1 commit(s) to [Deigowo/aNewRepo](https://github.com/Deigowo/aNewRepo)<br>
+2. ✔️ Closed issue [#1](https://github.com/Deigowo/aNewRepo/issues/1) in [Deigowo/aNewRepo](https://github.com/Deigowo/aNewRepo)<br>
+3. ❗️ Opened issue [#1](https://github.com/Deigowo/aNewRepo/issues/1) in [Deigowo/aNewRepo](https://github.com/Deigowo/aNewRepo)<br>
+4. 📔 Created new repository [Deigowo/aNewRepo](https://github.com/Deigowo/aNewRepo)<br>
 5. ⬆️ Pushed 1 commit(s) to [Deigowo/Deigowo](https://github.com/Deigowo/Deigowo)<br>
 <!--RECENT_ACTIVITY:end-->
 
