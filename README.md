@@ -12,11 +12,11 @@
 
 ### Commits recientes
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/Deigowo/firstRelease/releases/tag/v0.1.0) in [Deigowo/firstRelease](https://github.com/Deigowo/firstRelease)<br>
-2. ⬆️ Pushed 1 commit(s) to [Deigowo/firstRelease](https://github.com/Deigowo/firstRelease)<br>
-3. 📔 Created new repository [Deigowo/firstRelease](https://github.com/Deigowo/firstRelease)<br>
-4. 🎉 Merged PR [#2](https://github.com/Deigowo/aNewRepo/pull/2) in [Deigowo/aNewRepo](https://github.com/Deigowo/aNewRepo)<br>
-5. ⬆️ Pushed 3 commit(s) to [Deigowo/aNewRepo](https://github.com/Deigowo/aNewRepo)<br>
+1. 💪 Opened PR [#40](https://github.com/gnievap/test-html/pull/40) in [gnievap/test-html](https://github.com/gnievap/test-html)<br>
+2. ⬆️ Pushed 7 commit(s) to [Deigowo/test-html](https://github.com/Deigowo/test-html)<br>
+3. ⬆️ Pushed 15 commit(s) to [Deigowo/test-html](https://github.com/Deigowo/test-html)<br>
+4. 💪 Opened PR [#36](https://github.com/gnievap/test-html/pull/36) in [gnievap/test-html](https://github.com/gnievap/test-html)<br>
+5. ⬆️ Pushed 5 commit(s) to [Deigowo/test-html](https://github.com/Deigowo/test-html)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
