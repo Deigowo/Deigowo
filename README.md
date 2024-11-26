@@ -12,11 +12,11 @@
 
 ### Commits recientes
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Deigowo/test-html](https://github.com/Deigowo/test-html)<br>
-2. ⬆️ Pushed 2 commit(s) to [Deigowo/test-html](https://github.com/Deigowo/test-html)<br>
-3. ⬆️ Pushed 69 commit(s) to [Deigowo/test-html](https://github.com/Deigowo/test-html)<br>
-4. ⬆️ Pushed 1 commit(s) to [Deigowo/guitarras-store](https://github.com/Deigowo/guitarras-store)<br>
-5. 💪 Opened PR [#40](https://github.com/gnievap/test-html/pull/40) in [gnievap/test-html](https://github.com/gnievap/test-html)<br>
+1. ⬆️ Pushed 1 commit(s) to [Deigowo/guitarras-store](https://github.com/Deigowo/guitarras-store)<br>
+2. ⬆️ Pushed 1 commit(s) to [Deigowo/test-html](https://github.com/Deigowo/test-html)<br>
+3. ⬆️ Pushed 2 commit(s) to [Deigowo/test-html](https://github.com/Deigowo/test-html)<br>
+4. ⬆️ Pushed 69 commit(s) to [Deigowo/test-html](https://github.com/Deigowo/test-html)<br>
+5. ⬆️ Pushed 1 commit(s) to [Deigowo/guitarras-store](https://github.com/Deigowo/guitarras-store)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--
