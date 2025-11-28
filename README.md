@@ -3,6 +3,7 @@
 💻 **Multiplatform Software Development Student**
 
 🌱 Learning and Working on Backend Development
+
 🌱 Learning Data Science
 
 ### Activity:
